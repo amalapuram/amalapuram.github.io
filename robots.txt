@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://amalapuram.github.io/sitemap.xml
+Sitemap: https://amalapuram.github.ioblank/sitemap.xml
