@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>NeWS lab </p>
-    <p>Room:A-422, Acad block -A </p>
+    <p>Room:422, Acad block -A </p>
     <p> IIT Hyderabad</p>
     <p>Telangana,India</p>
 
