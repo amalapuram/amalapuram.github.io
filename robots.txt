@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://amalapuram.github.io/sitemap.xml
