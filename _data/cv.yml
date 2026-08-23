@@ -21,7 +21,7 @@
       institution: Indian Institute of Technology Kharagpur
       year: 2014 - 2016
     - title: B.Tech in Information Science & Technology
-      institution: Acharya Nagarjuna University, Guntur
+      institution: Bapatla Engineering College, Acharya Nagarjuna University, Guntur
       year: 2007 - 2011
 
 - title: Experience
@@ -75,7 +75,8 @@
     - title: Reviewing
       items:
         - ICDCS 2025, NeurIPS 2025, ICLR 2026, ACM MobiCom 2026
-        - IEEE Communications Letters, Computers & Security, ICVGIP, Complex & Intelligent Systems
+        - IEEE TMC, IEEE TNSM, IEEE Communications Letters
+        - Computers & Security, ICVGIP, Complex & Intelligent Systems
     - title: Mentoring
       items:
         - Supervised UG and PG students at IIT Hyderabad
