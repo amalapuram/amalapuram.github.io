@@ -4,7 +4,7 @@
     - name: Full Name
       value: Suresh Kumar Amalapuram
     - name: Position
-      value: Assistant Professor (Grade-II), School of Artificial Intelligence & Data Engineering, IIT Ropar
+      value: Assistant Professor, School of Artificial Intelligence & Data Engineering, IIT Ropar
     - name: Languages
       value: Telugu (Native), English, Hindi
 
@@ -13,35 +13,32 @@
   contents:
     - title: Ph.D. in Computer Science & Engineering
       institution: Indian Institute of Technology Hyderabad
-      year: 2019 - 2024
       description:
         - "Advisors: Prof. Bheemarjuna Reddy Tamma, Prof. Sumohana S. Channappayya"
         - "Thesis: Continual Learning for Intrusion Detection Systems - Addressing Concept Drift in Network Traffic"
     - title: M.Tech in Information Technology
       institution: Indian Institute of Technology Kharagpur
-      year: 2014 - 2016
     - title: B.Tech in Information Science & Technology
       institution: Bapatla Engineering College, Acharya Nagarjuna University, Guntur
-      year: 2007 - 2011
 
 - title: Experience
   type: time_table
   contents:
-    - title: Assistant Professor (Grade-II)
+    - title: Assistant Professor
       institution: School of Artificial Intelligence & Data Engineering, IIT Ropar
-      year: Mar 2026 - Present
+      year: 2026 - Present
     - title: Postdoctoral Researcher
       institution: IIT Hyderabad
-      year: Sept 2025 - Mar 2026
+      year: 2025 - 2026
     - title: Postdoctoral Researcher
       institution: University of Edinburgh
-      year: Jan 2025 - Jul 2025
+      year: 2025
     - title: Postdoctoral Researcher
       institution: IIT Hyderabad
-      year: Aug 2024 - Jan 2025
+      year: 2024 - 2025
     - title: Software Development Engineer 2
       institution: Oracle India Private Limited, Bengaluru
-      year: Jul 2016 - Apr 2019
+      year: 2016 - 2019
 
 - title: Research Interests
   type: nested_list
