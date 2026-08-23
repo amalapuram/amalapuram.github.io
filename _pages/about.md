@@ -9,20 +9,18 @@ profile:
   image: profile_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>NeWS lab </p>
-    <p>Room:422, Acad block -A </p>
-    <p> IIT Hyderabad</p>
-    <p>Telangana,India</p>
+    <p>School of Artificial Intelligence & Data Engineering</p>
+    <p>Indian Institute of Technology Ropar</p>
+    <p>Rupnagar, Punjab 140001, India</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am **Suresh Kumar Amalapuram**,  currently working with the [Prof. Mahesh Marina](https://homepages.inf.ed.ac.uk/mmarina/) as a postdoctoral researcher at the School of Informatics, University of Edinburgh. Previously, I was a Postdoc with [Prof. Siva Ram Murthy](https://www.cse.iitm.ac.in/~murthy/). Prior to that I received Ph.D. student from Computer Science and Engineering department at the Indian Institute of Technology (IIT) Hyderabad, advised jointly by [Prof. Bheemarjuna Reddy Tamma](https://people.iith.ac.in/tbr/) and [Prof. Sumohana S Channappayya](https://people.iith.ac.in/sumohana/).  
+I am **Suresh Kumar Amalapuram**, an Assistant Professor (Grade-II) at the School of Artificial Intelligence & Data Engineering, Indian Institute of Technology (IIT) Ropar. Before joining IIT Ropar, I held postdoctoral positions at IIT Hyderabad, working with [Prof. Bheemarjuna Reddy Tamma](https://people.iith.ac.in/tbr/), and at the School of Informatics, University of Edinburgh. I received my Ph.D. in Computer Science and Engineering from IIT Hyderabad, advised jointly by [Prof. Bheemarjuna Reddy Tamma](https://people.iith.ac.in/tbr/) and [Prof. Sumohana S. Channappayya](https://people.iith.ac.in/sumohana/), with a thesis on continual learning for intrusion detection systems.
 
-My Ph.D. research centers on the intersection of security and continual learning. Specifically, I am developing security systems that can continuously learn and adapt to novel cyber threats. These systems address challenges such as class imbalance, scalability, concept drift, and limited supervision. 
+My research centers on machine learning for security — building systems that continuously learn and adapt to novel and evolving cyber threats. I work on continual learning, intrusion and malware detection, and tailored ML techniques for security and systems, addressing challenges such as class imbalance, concept drift, and limited supervision.
 
-Previously, I was a software developer at Oracle India Pvt ltd, Bangalore for three years, and completed post-graduation in computer science from IIT Kharagpur
-
+Before my Ph.D., I worked as a software development engineer at Oracle India Pvt. Ltd., Bangalore, and completed my M.Tech in Information Technology at IIT Kharagpur.
 
