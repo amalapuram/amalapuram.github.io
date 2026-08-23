@@ -3,7 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description: Research on continual learning for network security.
-nav: true
+nav: false
 nav_order: 3
 display_categories: [research]
 horizontal: false
